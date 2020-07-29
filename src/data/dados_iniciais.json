@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Programação",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,32 +10,32 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Um dos conceitos mais importantes na programação",
+          "url": "https://www.youtube.com/watch?v=P5kfA6ncOs8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Enviando emails com o node.js",
+          "url": "https://www.youtube.com/watch?v=Z4J4sBKgYEE"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
           "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "League of Legends in 24 hours",
+          "url": "https://www.youtube.com/watch?v=xPACyhqlLm0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "A day in the life of a software engineer.",
+          "url": "https://www.youtube.com/watch?v=rqX8PFcOpxA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Que é Machine Learning",
+          "url": "https://www.youtube.com/watch?v=u8xgqvk16EA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "IA estacionando carros!",
+          "url": "https://www.youtube.com/watch?v=r8KWciNmEGw"
         },
         {
           "titulo": "Base para aprender os frameworks",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Ciência",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -52,29 +52,29 @@
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Robotic Basketball hoop",
+          "url": "https://www.youtube.com/watch?v=FycDx69px8U"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Programação e Cognição",
+          "url": "https://www.youtube.com/watch?v=w3NcXc4NiAs"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Termodiâmica, entropia, Jovem Nerd e Tenet!",
+          "url": "https://www.youtube.com/watch?v=OXsO8-UPRi4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "O que é intelegiência?",
+          "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Como Colonizar Marte?",
+          "url": "https://www.youtube.com/watch?v=DAyKeqm2_uc"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Games",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -82,20 +82,20 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Irmãos da lâmina manchada",
+          "url": "https://www.youtube.com/watch?v=4eNjKhwXIWg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Shooting Star",
+          "url": "https://www.youtube.com/watch?v=zlEWKEQsgeQ"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Cerimônia de abertura Mundial de League os Legends 2019",
+          "url": "https://www.youtube.com/watch?v=6QDWbKnwRcc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Forza horizon 4",
+          "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
         }
       ]
     },
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Música",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
@@ -130,29 +130,29 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Emicida- Quem tem um amigo tem tudo",
+          "url": "https://www.youtube.com/watch?v=hxsWMlVPdWg"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Os Informais - Jeitinho Brasileiro",
+          "url": "https://www.youtube.com/watch?v=0TlXgGRrhUw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Zelda Medley",
+          "url": "https://www.youtube.com/watch?v=bUMS8Ut9ybA"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Tango en Skai",
+          "url": "https://www.youtube.com/watch?v=CAIju9ZCtCw"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Interstelar - Cornfield Chase",
+          "url": "https://www.youtube.com/watch?v=dkWm59GfLz4&list=OLAK5uy_k_jyaLNvSHgkqN6IrJteUZm4iV80w56tE&index=2"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Esportes",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -160,24 +160,24 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "O Bahia te representa?",
+          "url": "https://www.youtube.com/watch?v=Qtloj-txiFg"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Copa do Nordeste 2017",
+          "url": "https://www.youtube.com/watch?v=0wvVri3McrY"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "SB 49 highlights",
+          "url": "https://www.youtube.com/watch?v=DKvXgZWfn14"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "LevanteBandeira",
+          "url": "https://www.youtube.com/watch?v=BsaPLQbc0vU"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Boston Celtics 2007/2008 Tribute",
+          "url": "https://www.youtube.com/watch?v=aco1b7E12Xk"
         }
       ]
     }
