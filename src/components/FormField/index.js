@@ -3,11 +3,33 @@ import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 
 const FormFieldWrapper = styled.div`
-
+  position: relative;
+  textarea {
+    min-height: 150px;
+  }
+  input[type="color"] {
+    padding-left: 56px;
+  }
 `;
 
-const Label = styled.label`
+const Label = styled.label``;
 
+Label.Text = styled.span`
+  color: #E5E5E5;
+  height: 57px;
+  position: absolute; 
+  top: 0;
+  left: 16px;
+  
+  display: flex;
+  align-items: center;
+  
+  transform-origin: 0% 0%;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  
+  transition: .1s ease-in-out;
 `;
 
 const Input = styled.input`
@@ -58,8 +80,6 @@ function FormField({
       <Label
         htmlFor={fieldId}
       >
-        {label}
-        :
         <Input
           as={tag}
           type={tipo}
@@ -67,6 +87,10 @@ function FormField({
           name={name}
           onChange={onChange}
         />
+        <Label.Text>
+          {label}
+          :
+        </Label.Text>
       </Label>
     </FormFieldWrapper>
   );
