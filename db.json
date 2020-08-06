@@ -1,0 +1,19 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "nome": "Programação",
+        "descricao": "Alguns exemplos do que estudo",
+        "cor": "#cbd1ff"
+        },
+
+        {
+        "id": 2,
+        "nome": "Filmes",
+        "descricao": "Filmes que eu gosto",
+        "cor": "#cbd1ff"
+        }
+
+        
+    ]
+}
