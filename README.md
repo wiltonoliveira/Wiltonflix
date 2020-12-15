@@ -1,5 +1,5 @@
 <p align="center">
-![logo wiltonflix](./src/assets/imagens/Logo.png)
+![logo wiltonflix]('./src/assets/imagens/Logo.png')
 </p>
 
 ## Descrição do Projeto
