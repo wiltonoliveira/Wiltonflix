@@ -1,6 +1,4 @@
-<p align="center">
-![logo wiltonflix]('./src/assets/imagens/Logo.png')
-</p>
+<img src="https://drive.google.com/uc?export=view&id=1qISSUWQ9kBZ-8fN55anEq8rtMfapwUmh" style="width: 650px; max-width: 70%; height: auto;" />
 
 ## Descrição do Projeto
 
